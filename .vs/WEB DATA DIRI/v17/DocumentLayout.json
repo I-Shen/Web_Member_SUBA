@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NUGI\\source\\repos\\WEB DATA DIRI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{795C73F4-E95B-4CEF-AE5D-4E852C8DCABE}|WEB DATA DIRI\\WEB DATA DIRI.csproj|c:\\users\\nugi\\source\\repos\\web data diri\\web data diri\\migrations\\20240222025553_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C73F4-E95B-4CEF-AE5D-4E852C8DCABE}|WEB DATA DIRI\\WEB DATA DIRI.csproj|solutionrelative:web data diri\\migrations\\20240222025553_initialsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C73F4-E95B-4CEF-AE5D-4E852C8DCABE}|WEB DATA DIRI\\WEB DATA DIRI.csproj|c:\\users\\nugi\\source\\repos\\web data diri\\web data diri\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C73F4-E95B-4CEF-AE5D-4E852C8DCABE}|WEB DATA DIRI\\WEB DATA DIRI.csproj|solutionrelative:web data diri\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795C73F4-E95B-4CEF-AE5D-4E852C8DCABE}|WEB DATA DIRI\\WEB DATA DIRI.csproj|c:\\users\\nugi\\source\\repos\\web data diri\\web data diri\\models\\ddiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{795C73F4-E95B-4CEF-AE5D-4E852C8DCABE}|WEB DATA DIRI\\WEB DATA DIRI.csproj|solutionrelative:web data diri\\models\\ddiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NUGI\\source\\repos\\WEB DATA DIRI\\WEB DATA DIRI\\Controllers\\DDirisController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WEB DATA DIRI\\Controllers\\DDirisController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240222025553_initialsetup.cs",
+              "DocumentMoniker": "C:\\Users\\NUGI\\source\\repos\\WEB DATA DIRI\\WEB DATA DIRI\\Migrations\\20240222025553_initialsetup.cs",
+              "RelativeDocumentMoniker": "WEB DATA DIRI\\Migrations\\20240222025553_initialsetup.cs",
+              "ToolTip": "C:\\Users\\NUGI\\source\\repos\\WEB DATA DIRI\\WEB DATA DIRI\\Migrations\\20240222025553_initialsetup.cs",
+              "RelativeToolTip": "WEB DATA DIRI\\Migrations\\20240222025553_initialsetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T02:55:54.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DDirisController.cs",
+              "DocumentMoniker": "C:\\Users\\NUGI\\source\\repos\\WEB DATA DIRI\\WEB DATA DIRI\\Controllers\\DDirisController.cs",
+              "RelativeDocumentMoniker": "WEB DATA DIRI\\Controllers\\DDirisController.cs",
+              "ToolTip": "C:\\Users\\NUGI\\source\\repos\\WEB DATA DIRI\\WEB DATA DIRI\\Controllers\\DDirisController.cs",
+              "RelativeToolTip": "WEB DATA DIRI\\Controllers\\DDirisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T02:49:06.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DDiri.cs",
+              "DocumentMoniker": "C:\\Users\\NUGI\\source\\repos\\WEB DATA DIRI\\WEB DATA DIRI\\Models\\DDiri.cs",
+              "RelativeDocumentMoniker": "WEB DATA DIRI\\Models\\DDiri.cs",
+              "ToolTip": "C:\\Users\\NUGI\\source\\repos\\WEB DATA DIRI\\WEB DATA DIRI\\Models\\DDiri.cs",
+              "RelativeToolTip": "WEB DATA DIRI\\Models\\DDiri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T02:04:19.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\NUGI\\source\\repos\\WEB DATA DIRI\\WEB DATA DIRI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WEB DATA DIRI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\NUGI\\source\\repos\\WEB DATA DIRI\\WEB DATA DIRI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WEB DATA DIRI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:52:45.997Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
